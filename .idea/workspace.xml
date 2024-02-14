@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e0a9f15-3789-4fac-b06c-00dd1d775dcb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2N2qSyqfUGG27Vl3PRl1rVHSZZ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "Application.ChatMainController.executor": "Run",
+    "Application.Client.executor": "Run",
+    "Application.Server.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/macm1/IdeaProjects/javafx-messenger",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15141612",
+    "project.structure.side.proportion": "0.59212375",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/view" />
+      <recent name="$PROJECT_DIR$/src/main/java/makerspace" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/asset" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets" />
+      <recent name="$PROJECT_DIR$/src/main/java/controller" />
+      <recent name="$PROJECT_DIR$/src/main/controllers" />
+      <recent name="$PROJECT_DIR$/src/main/resources/views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="controller.ChatMainController" />
+      <module name="MakerSpace" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/Downloads/javafx-sdk-21.0.2/lib --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chat.Server" />
+      <module name="MakerSpace" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="makerspace-management" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="makerspace-management" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-be841094" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e0a9f15-3789-4fac-b06c-00dd1d775dcb" name="Changes" comment="" />
+      <created>1678872528466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678872528466</updated>
+      <workItem from="1678872529648" duration="307000" />
+      <workItem from="1678872850237" duration="1461000" />
+      <workItem from="1678876301880" duration="2001000" />
+      <workItem from="1678878731711" duration="98000" />
+      <workItem from="1678878846096" duration="4194000" />
+      <workItem from="1680597621530" duration="4000" />
+      <workItem from="1683729427443" duration="1847000" />
+      <workItem from="1683732250329" duration="1533000" />
+      <workItem from="1683733809815" duration="434000" />
+      <workItem from="1683734339702" duration="183000" />
+      <workItem from="1683734525756" duration="299000" />
+      <workItem from="1683734827514" duration="725000" />
+      <workItem from="1683736820275" duration="1416000" />
+      <workItem from="1683738580739" duration="945000" />
+      <workItem from="1683739596449" duration="1050000" />
+      <workItem from="1683740794102" duration="451000" />
+      <workItem from="1683741259174" duration="25211000" />
+      <workItem from="1683773778968" duration="742000" />
+      <workItem from="1683802965682" duration="6022000" />
+      <workItem from="1683810067192" duration="2143000" />
+      <workItem from="1684719768362" duration="1268000" />
+      <workItem from="1687965426968" duration="11000" />
+      <workItem from="1694174676357" duration="63000" />
+      <workItem from="1695984923434" duration="1073000" />
+      <workItem from="1695986437155" duration="355000" />
+      <workItem from="1695988216107" duration="1755000" />
+      <workItem from="1701195886616" duration="14000" />
+      <workItem from="1701208057310" duration="376000" />
+      <workItem from="1701208451085" duration="12000" />
+      <workItem from="1701208475606" duration="8780000" />
+      <workItem from="1701435037701" duration="48000" />
+      <workItem from="1701435115711" duration="5000" />
+      <workItem from="1706691010555" duration="172000" />
+      <workItem from="1707378611416" duration="411000" />
+      <workItem from="1707379225985" duration="134000" />
+      <workItem from="1707379362338" duration="3176000" />
+      <workItem from="1707908291175" duration="1602000" />
+      <workItem from="1707909898722" duration="5190000" />
+      <workItem from="1707946422067" duration="119000" />
+      <workItem from="1707946560453" duration="9000" />
+      <workItem from="1707946613703" duration="417000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added JavaFX and views">
+      <created>1684719882551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684719882551</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added copyright">
+      <created>1684720428714</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684720428714</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Added JavaFX and views" />
+    <MESSAGE value="Added copyright" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added copyright" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
